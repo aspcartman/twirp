@@ -1,7 +1,9 @@
 ![Twirp Logo](./logo.png) [![Build Status](https://travis-ci.org/twitchtv/twirp.svg?branch=master)](https://travis-ci.org/twitchtv/twirp) [![Go Report Card](https://goreportcard.com/badge/github.com/twitchtv/twirp)](https://goreportcard.com/report/github.com/twitchtv/twirp) [![GoDoc](https://godoc.org/github.com/twitchtv/twirp?status.svg)](https://godoc.org/github.com/twitchtv/twirp)
 
 ---
+This is a fork of the original twitchtv/twirp framework.
 
+---
 Twirp is a framework for service-to-service communication emphasizing simplicity
 and minimalism. It generates routing and serialization from API definition files
 and lets you focus on your application's logic instead of thinking about
